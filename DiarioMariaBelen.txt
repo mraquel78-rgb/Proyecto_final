@@ -1,0 +1,2 @@
+30 de octubre: se trabajo con la librería Numpy
+4 de noviembre: se trabajo con pandas
