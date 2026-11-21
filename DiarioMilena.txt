@@ -1,2 +1,9 @@
 30 de octubre: se trabajo con Numpy 
+
 4 de noviembre: se trabajo con pandas
+
+11 de Noviembre: Se trabajo con la librería Matplotlib. Se utilizo su modulo pyplot para hacer cambios en las graficas fácilmente, personalizando los ejes y demás.
+
+13 de Noviembre: Se buscaron bases de datos para el proyecto final, el profesor les dio el visto bueno, aprobando o rechazando estas mismas. 
+
+18 de Noviembre: Se termino de elegir la bases de datos, se actualizaron las bases de datos y se crearon carpetas.  
